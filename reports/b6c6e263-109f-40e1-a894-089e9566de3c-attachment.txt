@@ -1,0 +1,12 @@
+Se hizo click en liquidaciones
+Se hizo click en liquidaciones de comprobantes
+Se hizo click en nuevo lote
+Se selecicona el tipo de liquidacion PRESTACION
+Se selecicona la razon social ACLIBA I
+Se ingresa la fecha de recepcion
+Se presiona aceptar y se da de alta el lote
+este es mi texto inicial: [ LOTE: 62126 PRESTADOR ACLIBA I ]
+este es mi texto final: [ LOTE
+No coincide el texto del elemento web con el texto esperado: [[ LOTE] =! [ LOTE 
+
+Test Completed
