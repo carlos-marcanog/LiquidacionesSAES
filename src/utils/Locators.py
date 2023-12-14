@@ -37,4 +37,4 @@ FECHA_IMPRESION_COMPROBANTE = '/html/body/form/div[4]/table/tbody/tr[1]/td/table
 FECHA_COMPROBANTE = '/html/body/form/div[4]/table/tbody/tr[1]/td/table[3]/tbody/tr/td/table[3]/tbody/tr[2]/td[7]/input'
 PERIODO_COMPROBANTE = '/html/body/form/div[4]/table/tbody/tr[1]/td/table[3]/tbody/tr/td/table[3]/tbody/tr[2]/td[9]/input'
 NETO_GRAVADO_COMPROBANTE = '/html/body/form/div[4]/table/tbody/tr[1]/td/table[3]/tbody/tr/td/table[4]/tbody/tr[1]/td[2]/input'
-cualquier_cosa = 'ggusgugsigsi'
+
